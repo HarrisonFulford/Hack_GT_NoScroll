@@ -2,7 +2,7 @@
 
 > **We built reels and twitter blockers before it was popular**
 
-A Chrome estension that provides users with customizable website restrictions and time management tools; using raw (I know) html, css, and javascript.  
+A Chrome extension that provides users with customizable website restrictions and time management tools; using raw (I know) html, css, and javascript.  
 
 <div align="center">
   
