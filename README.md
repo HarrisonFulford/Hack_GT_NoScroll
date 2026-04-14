@@ -6,7 +6,7 @@ A Chrome extension that provides users with customizable website restrictions an
 
 <div align="center">
   
-**Click ts for a demo**
+**[Click for a demo](https://www.youtube.com/watch?v=-LHBkAw3PC8)**
 
 </div>
 
